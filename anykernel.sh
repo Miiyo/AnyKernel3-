@@ -10,8 +10,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=akari
-device.name2=akari_kddi
+device.name1=apollo
+device.name2=H8324
 supported.versions=
 supported.patchlevels=
 '; } # end properties
